@@ -448,6 +448,12 @@ div.jp-type-playlist div.jp-playlist a.jp-playlist-item-remove {
 div.jp-type-playlist div.jp-playlist a.jp-playlist-item-remove:hover {
 	color:#0d88c1;
 }
+div.jp-type-playlist div.jp-playlist .jp-playlist-item-time {
+    float:right;
+    display:inline;
+    text-align:right;
+    margin-right:10px;
+}
 div.jp-type-playlist div.jp-playlist span.jp-free-media {
 	float:right;
 	display:inline;
